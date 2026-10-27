@@ -137,151 +137,143 @@ Account changes should only be performed by authorised IT personnel following sc
 ---
 
 
-## 1. Laptop and computer issues
+## Real Life  School IT Support: Issues and Resolutions
 
-| No. | Issue and reported problem                                                                         | Recorded solution                                                                     |
-| --- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| 1   | Build-09: Laptop stuck in airplane mode and unable to connect to Wi-Fi.                               | Pressed the Wi-Fi button.                                                             |
-| 2   | 7G-26: Arrow key detached from the keyboard and temporarily attached with sticky tape.             | Arrow key replaced.                                                                   |
-| 3   | 2F PC Lab, PC2: Computer required reimaging.                                                       | Computer reimaged.                                                                    |
-| 4   | Robotics laptops: Laptops required reimaging.                                                      | Laptops reimaged.                                                                     |
-| 5   | 3F trolley, laptops 7 and 18: Both laptops would not turn on.                                      | Checked and confirmed both were working.                                              |
-| 6   | 3G green trolley, laptops 04, 12 and 14: Missing keyboard keys.                                    | Repaired and returned to trolley.                                                     |
-| 7   | 7G-09: Laptop frame broken, preventing it from opening properly.                                   | Laptop repaired and returned.                                                         |
-| 8   | 3G-23: Missing keyboard key.                                                                       | Repaired and returned.                                                                |
-| 9   | 3G orange trolley, laptops 19 and 04: Both laptops reported as faulty.                             | Repaired, but specific faults and repairs were not recorded.                          |
-| 10  | 6G computers: One faulty keyboard and several missing keys.                                        | Faulty keyboards replaced.                                                            |
-| 11  | 3G-03: Missing Windows keyboard key.                                                               | Key repaired and laptop returned.                                                     |
-| 12  | 3G orange trolley, laptop 3: Mouse not working.                                                    | Repaired and returned.                                                                |
-| 13  | 3G green trolley: Several laptops had missing keys; laptop 27 would not turn on.                   | Six laptops had keys repaired. Additional keyboards and a battery were being ordered. |
-| 14  | 3G2-12: Missing keyboard key.                                                                      | Key repaired.                                                                         |
-| 15  | 3G2-26: Damaged touchpad; laptop 22 had a missing key.                                             | Issue recorded as fixed.                                                              |
-| 16  | 4G-15: Laptop screen cracked.                                                                      | Screen replaced and laptop returned.                                                  |
-| 17  | 4G-09: Missing keyboard keys.                                                                      | Keys replaced.                                                                        |
-| 18  | 7G laptops 2 and 16: Keyboard keys removed and placed in the wrong positions.                      | Both keyboards replaced.                                                              |
-| 19  | 4G Mac Lab: An iMac could not log in because of a faulty board.                                    | Replaced with another iMac that had a minor screen fault.                             |
-| 20  | 1G2-03: Computer stuck on a diagnostic screen.                                                     | Fixed and returned.                                                                   |
-| 21  | 3G2-11: Laptop showed a black screen with a mouse cursor.                                          | Fixed and returned.                                                                   |
-| 22  | 3G2-11: Keyboard keys rearranged incorrectly and later became detached.                            | Keys repaired.                                                                        |
-| 23  | 1F-13: Laptop had a domain login issue. Restarting did not help, and other users could not log in. | Laptop reimaged and returned.                                                         |
-| 24  | 4G-04: Laptop could not connect.                                                                   | Laptop reimaged and returned.                                                         |
-| 25  | 3G-04: Cracked laptop screen.                                                                      | Screen replaced; laptop retained in IT office as a master image laptop.               |
-| 26  | 1G2-04: Faulty SSD hard drive.                                                                     | SSD replaced, laptop reimaged and returned.                                           |
-| 27  | 1F-10: Laptop repeatedly displayed a setup error and restarted.                                    | Laptop reimaged and returned.                                                         |
-| 28  | 1F trolley, laptop 28: Laptop would not load.                                                      | Reimaged and returned.                                                                |
-| 29  | 1G-08: Cracked laptop screen.                                                                      | Screen replaced and laptop returned.                                                  |
-| 30  | 8G-27: Laptop not working.                                                                         | Reimaged and returned.                                                                |
-| 31  | 6G-05: Cracked laptop screen.                                                                      | Screen replaced and returned.                                                         |
+**Location:** Building 1 (standardised placeholder) 
 
-## 2. Software and application issues
+---
+## 1. Laptop and Computer Issues
 
-| No. | Issue and reported problem                                                                                                                | Recorded solution                                                                                                                 |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| 32  | Microsoft Outlook offline: Email appeared offline. Closing and reopening Outlook did not fix it.                                          | The user found the Work Offline button.                                                                                           |
-| 33  | Curriculum HQ: Documents took a long time to load from home. Some links did not work, and Word documents stopped responding.              | Advised the user to download files rather than open them directly through links.                                                  |
-| 34  | Student portal: Students received an "Access unauthorised" message when trying to access learning resources from home.                    | Record states laptops were reimaged.                                                                                              |
-| 35  | OneDrive Education: OneDrive shortcut disappeared from the left navigation panel.                                                         | OneDrive issue fixed. Exact steps not recorded.                                                                                   |
-| 36  | Adobe Character Animator: Software needed on iMacs 1 and 9.                                                                               | Software installed on both computers.                                                                                             |
-| 37  | Adobe Premiere Rush: Students could not import video files.                                                                               | Software updated to the latest version.                                                                                           |
-| 38  | Curriculum HQ Word templates: User could not save or open Word templates from home because of a browser and Office compatibility message. | Advised the user to use Internet Explorer. This is a historical solution, not a current browser recommendation.                   |
-| 39  | NetSupport, 6G: Several computers had lost NetSupport functionality.                                                                      | One report says the teacher resolved the issue before assistance arrived.                                                         |
-| 40  | NetSupport, 6G PC Lab: NetSupport was not working, and the server had reached peak performance.                                           | Server issue resolved and NetSupport Student fixed on three computers.                                                            |
-| 41  | Microsoft 365: User could not log in on a personal computer and became locked out.                                                        | Windows upgraded to Windows 10 Pro and Office 365 installed. The record does not separately confirm how the lockout was resolved. |
-| 42  | iMac shortcut issue: Student No Backup and Staff Public shortcuts were missing.                                                           | User shown how to open Student No Backup manually. iMac reimaging planned.                                                        |
-| 43  | Replacement teacher laptop: Laptop displayed unwanted pop-up messages, possibly caused by malware.                                        | Replacement laptop prepared, but teacher later confirmed it was not needed.                                                       |
-| 44  | Student Pinterest access: Pinterest access was not working on school laptops and the guest network.                                       | Access issue fixed.                                                                                                               |
-| 45  | Spotify access: Teacher requested Spotify for drama lessons.                                                                              | Whitelist request rejected. Alternative music services suggested at the time.                                                     |
-| 46  | YouTube restricted video: A teacher could not access a particular YouTube video due to restricted mode.                                   | Downloading the video was suggested as an alternative.                                                                            |
-| 47  | Bulk email access: School administration email account could not send bulk emails.                                                        | Department IT checked the computer and webmail and reactivated outbound email.                                                    |
+| No. | Issue and Reported Problem | Recorded Solution |
+|---|---|---|
+| 1 | **Laptop stuck in airplane mode:** Laptop could not connect to Wi-Fi because airplane mode was enabled. | Pressed the Wi-Fi button to restore connectivity. |
+| 2 | **Missing keyboard keys:** Several laptops had missing, detached or incorrectly positioned keys. | Replaced missing keys or faulty keyboards and returned laptops. |
+| 3 | **Computer requires reimaging:** Computers in the PC lab and robotics area required reimaging. | Computers were reimaged. |
+| 4 | **Laptop not turning on:** Several laptops failed to start when powered on. | Laptops were checked, repaired or reimaged. Exact repairs were not always recorded. |
+| 5 | **Broken laptop frame:** Laptop frame was damaged, preventing the screen from opening properly. | Laptop repaired and returned. |
+| 6 | **Mouse not working:** Laptop mouse or pointing device stopped responding. | Repaired and returned. Exact repair method not recorded. |
+| 7 | **Damaged touchpad:** Laptop touchpad was physically damaged. | Issue recorded as fixed. |
+| 8 | **Cracked laptop screen:** Several laptops had cracked or damaged displays. | Screens replaced and laptops returned. |
+| 9 | **iMac login failure:** An iMac could not log in because of a faulty internal board. | Replaced with another iMac that had a minor display fault. |
+| 10 | **Computer stuck on diagnostic screen:** Laptop displayed a diagnostic screen instead of starting normally. | Issue fixed and laptop returned. |
+| 11 | **Black screen with mouse cursor:** Laptop displayed a black screen with a visible cursor. | Laptop repaired and returned. |
+| 12 | **Domain login failure:** Laptop would not accept user logins, even after restarting. | Laptop reimaged and returned. |
+| 13 | **Laptop unable to connect:** Laptop repeatedly failed to establish a connection. | Laptop reimaged and returned. |
+| 14 | **Faulty SSD:** Laptop storage drive failed. | SSD replaced, laptop reimaged and returned. |
+| 15 | **Repeated startup errors:** Laptop displayed a setup error and restarted repeatedly. | Laptop reimaged and returned. |
+| 16 | **Laptop screen flashing:** Laptop display repeatedly flashed or flickered. | Not recorded. |
+| 17 | **Incorrect screen orientation:** Laptop screen orientation changed and could not be corrected by the user. | Not recorded. |
+| 18 | **Laptop not charging:** Laptop did not charge when connected to power. | Not recorded. |
+| 19 | **Damaged screen wiring:** Wires or fibres were visible near the laptop screen. | Not recorded. |
+| 20 | **Damaged laptop motherboard:** An iMac had a motherboard fault and could not be repaired. | iMac moved to storage. |
+| 21 | **Laptop physical damage:** Laptop had damage near the upper-left corner of the screen. | Not recorded. |
+| 22 | **Laptop graffiti:** Laptop had graffiti or markings on its surface. | Not recorded. |
 
-## 3. Printer and photocopier issues
+---
 
-| No. | Issue and reported problem                                                                   | Recorded solution                                                            |
-| --- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| 48  | 7G printer: Printer did not recognise paper in the tray. Manual feed repeated the same page. | Paper tray configured for A4. Print jobs also needed A4 paper size selected. |
-| 49  | 4G photocopier: Paper jammed inside and staff could not remove it.                           | Not recorded.                                                                |
-| 50  | 4G printer: Printer showed an error or toner issue.                                          | Toner replaced.                                                              |
-| 51  | 6G printer: Printer displayed an error and was not available.                                | Printer restored to online status.                                           |
-| 52  | 3F2 printer: Toner needed replacing.                                                         | Toner replaced.                                                              |
+## 2. Software and Application Issues
 
-## 4. Projector, smartboard and audio issues
+| No. | Issue and Reported Problem | Recorded Solution |
+|---|---|---|
+| 23 | **Microsoft Outlook offline:** Email appeared offline and restarting Outlook did not help. | User identified the Work Offline button. |
+| 24 | **Slow document access:** Curriculum documents took a long time to open and sometimes stopped responding. | Advised the user to download files instead of opening links directly. |
+| 25 | **Student portal access denied:** Students received an "Access unauthorised" message when accessing resources from home. | Laptops were reportedly reimaged. |
+| 26 | **OneDrive shortcut missing:** OneDrive disappeared from the navigation panel. | OneDrive issue fixed; exact steps not recorded. |
+| 27 | **Adobe software installation:** Adobe Character Animator was required on classroom iMacs. | Software installed on the required computers. |
+| 28 | **Adobe Premiere Rush error:** Students could not import video files. | Application updated to the latest version. |
+| 29 | **Microsoft Word compatibility:** Word templates could not be opened or saved through the browser. | Internet Explorer was recommended at the time. This is an outdated historical workaround. |
+| 30 | **NetSupport not working:** Classroom management software stopped working on several computers. | NetSupport Student functionality restored on three computers in one case. |
+| 31 | **Microsoft 365 login problem:** User could not log in to Microsoft 365 from a personal computer. | Windows upgraded to Windows 10 Pro and Office 365 installed. Account lockout resolution not separately recorded. |
+| 32 | **Missing iMac shortcuts:** Shared school folders and shortcuts were missing. | User shown how to access a folder manually. Reimaging was planned. |
+| 33 | **Unwanted pop-up messages:** Teacher laptop displayed repeated unwanted messages, possibly caused by malware. | Replacement laptop prepared, but later not required. |
+| 34 | **Website access problems:** Students could not access Pinterest on school laptops. | Access issue fixed. |
+| 35 | **Restricted music service:** Teacher requested access to Spotify for classroom activities. | Access request rejected and alternatives suggested. |
+| 36 | **Restricted YouTube content:** Teacher could not access a video because of restrictions. | Downloading the video was suggested as an alternative. |
+| 37 | **Bulk email sending failure:** Administration account could not send bulk emails. | Department IT checked the computer and webmail and reactivated outbound email. |
 
-| No. | Issue and reported problem                                                                                       | Recorded solution                                |
-| --- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| 53  | 4G1.02 smartboard: Projector lamp had blown.                                                                     | Lamp replaced.                                   |
-| 54  | 4G-01: Classroom audio was not working.                                                                          | Audio checked and confirmed working.             |
-| 55  | 1F04 Home Economics: Projector was broken.                                                                       | Projector replaced.                              |
-| 56  | 3G1.3: Classroom audio repeatedly disconnected.                                                                  | Speaker replaced.                                |
-| 57  | 3F1.3: Audio kept disconnecting.                                                                                 | Speaker replaced.                                |
-| 58  | Textiles room: Computer display connection was unstable. Screen pixelated and disconnected when content changed. | Issue fixed by Jaden. Exact repair not recorded. |
-| 59  | 1G1.04: Projector was frozen.                                                                                    | Projector replaced.                              |
-| 60  | 3F101.2: Projector was sitting on the teacher's desk and needed mounting.                                        | Maintain AV fixed and returned the projector.    |
-| 61  | MacBook Pro: Teacher needed to display MacBook content on a large TV.                                            | MacBook display connection set up successfully.  |
-| 62  | 3G.02: Screen displayed "NO SIGNAL" despite cables being connected.                                              | Checked and fixed.                               |
-| 63  | 3G.03: Audio paused and made connection sounds.                                                                  | Projectors and audio checked.                    |
-| 64  | 5G13: No sound when the laptop was connected to the classroom projector. Audio worked in other classrooms.       | Not recorded.                                    |
-| 65  | Smartboard: Wireless connection stopped working, preventing videos from playing.                                 | Not recorded.                                    |
-| 66  | Projector speakers: Video sound could not be played through the projector speakers.                              | Not recorded.                                    |
+---
 
-## 5. Network, Wi-Fi and login issues
+## 3. Printer and Photocopier Issues
 
-| No. | Issue and reported problem                                                                                               | Recorded solution                                                             |
-| --- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
-| 67  | 3G laptop 27: No domains available at login.                                                                             | Reimaged and returned.                                                        |
-| 68  | 3G laptop 15: No internet connection.                                                                                    | Reimaged and returned.                                                        |
-| 69  | Staff laptop: Internet connection was lost when moving between home, office and classroom.                               | User advised that restarting might be necessary. No permanent fix documented. |
-| 70  | 3G1-04: Laptop not connecting to the internet.                                                                           | Not recorded.                                                                 |
-| 71  | 3G1-12: Laptop consistently had no internet access.                                                                      | Not recorded.                                                                 |
-| 72  | 1G2 trolley: Laptops 8, 10, 11, 13, 18 and 19 took approximately 10 minutes to load user profiles during a NAPLAN trial. | Maintenance requested before live testing. No completed solution recorded.    |
+| No. | Issue and Reported Problem | Recorded Solution |
+|---|---|---|
+| 38 | **Printer not recognising paper:** Printer could not detect paper in the tray and repeated pages during manual feed. | Configured paper tray and print jobs to use A4. |
+| 39 | **Photocopier paper jam:** Paper was stuck inside the machine and could not be removed. | Not recorded. |
+| 40 | **Printer toner issue:** Printer displayed a toner error or required new toner. | Toner replaced. |
+| 41 | **Printer offline:** Printer was unavailable for printing. | Printer restored to online status. |
 
-## 6. IT asset management and equipment
+---
 
-| No. | Issue and reported task                                                             | Recorded action                                          |
-| --- | ----------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| 73  | Mac Lab: iMac computers needed labelling and rearranging.                           | iMacs labelled and rearranged.                           |
-| 74  | iMac audit: Serial numbers needed recording after lab reorganisation.               | Caitlin completed the audit.                             |
-| 75  | 4G Mac Lab: Camera seat screw needed attaching.                                     | Screw attached.                                          |
-| 76  | Teacher laptop chargers: Various teachers borrowed laptop chargers.                 | Several chargers were recorded as returned.              |
-| 77  | Lightning cable: Laura borrowed a Lightning cable.                                  | Returned to IT.                                          |
-| 78  | DisplayLink adapter: Melanie Walker borrowed an adapter.                            | Returned.                                                |
-| 79  | 1G orange trolley: One of the trolley catches was broken.                           | Catch repaired.                                          |
-| 80  | New staff phone, 4G02: SBC office needed a telephone.                               | New phone allocated with extension 25295.                |
-| 81  | New staff laptop: Michael Cox needed a laptop and resource booking access.          | Laptop allocated and resource booking access configured. |
-| 82  | Phone call logs: Staff needed to check call records for extensions 25200 and 25208. | Phone linked to an email mailbox to assist tracking.     |
-| 83  | 3F2-18: Wires or fibres were coming out near the laptop screen.                     | Not recorded.                                            |
-| 84  | 3F trolley: Charging plug was bent and could not be inserted into the wall socket.  | Not recorded.                                            |
-| 85  | MPH-CL2: Seven broken laptops needed collection from a classroom cupboard.          | Collection requested; completion not recorded.           |
+## 4. Projector, Smartboard and Audio Issues
 
-## 7. Student account management
+| No. | Issue and Reported Problem | Recorded Solution |
+|---|---|---|
+| 42 | **Blown projector lamp:** Classroom smartboard projector lamp stopped working. | Lamp replaced. |
+| 43 | **Classroom audio not working:** Audio could not be heard through the classroom system. | Audio checked and confirmed working. |
+| 44 | **Broken projector:** Projector was faulty and could not be used. | Projector replaced. |
+| 45 | **Intermittent audio:** Classroom sound repeatedly disconnected. | Speaker replaced. |
+| 46 | **Unstable display connection:** Computer display pixelated and disconnected when content changed. | Issue fixed; exact repair not recorded. |
+| 47 | **Frozen projector:** Projector became unresponsive. | Projector replaced. |
+| 48 | **Projector mounting issue:** Projector was not mounted and could not be used properly. | AV contractor fixed and returned the projector. |
+| 49 | **MacBook display connection:** Teacher needed to connect a MacBook to a large classroom TV. | Display connection successfully configured. |
+| 50 | **Projector showing NO SIGNAL:** Screen displayed NO SIGNAL despite cables being connected. | Connection checked and fixed. |
+| 51 | **Audio connection sounds:** Classroom audio paused and made repeated connection sounds. | Projectors and audio checked. |
+| 52 | **No sound through projector:** Laptop audio worked elsewhere but not through the classroom projector. | Not recorded. |
+| 53 | **Smartboard wireless failure:** Wireless connection stopped working and videos could not be played. | Not recorded. |
 
-The document also includes requests to temporarily disable and later enable student computer accounts because of inappropriate computer use.
+---
 
-| No. | Reported task                                                                     | Recorded action                     |
-| --- | --------------------------------------------------------------------------------- | ----------------------------------- |
-| 86  | Student account restriction requested by teaching staff.                          | Account later activated.            |
-| 87  | Another student account restriction requested.                                    | Account enabled.                    |
-| 88  | Student account restricted for playing games instead of completing an assignment. | Account subsequently enabled.       |
-| 89  | Two student accounts restricted for inappropriate technology use.                 | Both accounts subsequently enabled. |
+## 5. Network, Wi-Fi and Login Issues
 
-## 8. Additional issues without recorded solutions
+| No. | Issue and Reported Problem | Recorded Solution |
+|---|---|---|
+| 54 | **No domains available:** Laptop could not find the school domain at login. | Laptop reimaged and returned. |
+| 55 | **No internet connection:** Laptop could not access the internet. | Some laptops were reimaged; other cases had no recorded resolution. |
+| 56 | **Internet disconnecting:** Staff laptop lost internet connection when moving between home, office and classroom. | Restart suggested. No permanent fix documented. |
+| 57 | **Slow student login:** Several laptops took approximately 10 minutes to load student profiles during testing. | Maintenance requested before live testing. No completed resolution recorded. |
 
-These are important because they appear near the end of the document and may be useful for troubleshooting practice.
+---
 
-| No. | Device or location | Full reported issue                                                         |
-| --- | ------------------ | --------------------------------------------------------------------------- |
-| 90  | 3G2-26             | Laptop screen flashing.                                                     |
-| 91  | 3G2-04             | Screen orientation incorrect and user could not fix it.                     |
-| 92  | 3F2-05             | Keyboard key missing.                                                       |
-| 93  | 5G trolley         | Laptops 02, 04 and 26 not working.                                          |
-| 94  | 3G2-11             | Graffiti on laptop.                                                         |
-| 95  | 3F1-09             | Laptop not charging.                                                        |
-| 96  | 3G1-01             | Missing keyboard key and damage to upper-left corner of screen.             |
-| 97  | 1G-18              | Cracked laptop screen.                                                      |
-| 98  | 3G2 trolley        | Laptops 6, 16 and 18 had missing or incorrectly positioned keys.            |
-| 99  | 3G2-21             | Keyboard keys swapped.                                                      |
-| 100 | 4G Media Lab       | iMac had a motherboard issue and could not be repaired; moved to storeroom. |
+## 6. IT Asset Management and Equipment
+
+| No. | Issue and Reported Task | Recorded Action |
+|---|---|---|
+| 58 | **Computer lab organisation:** iMacs needed labelling and rearranging. | Computers labelled and rearranged. |
+| 59 | **Computer inventory audit:** iMac serial numbers needed recording. | Serial number audit completed. |
+| 60 | **Borrowed IT equipment:** Staff borrowed chargers, cables and display adapters. | Equipment loans and returns recorded. |
+| 61 | **Damaged laptop trolley:** Trolley catches were broken. | Catches repaired. |
+| 62 | **New staff equipment setup:** New staff required laptops, phones and resource booking access. | Equipment allocated and access configured. |
+| 63 | **Phone call log tracking:** Staff needed to check telephone call records. | Phone linked to an email mailbox to assist tracking. |
+| 64 | **Damaged trolley charging plug:** Plug was bent and could not connect to the wall socket. | Not recorded. |
+| 65 | **Broken laptop collection:** Multiple damaged laptops needed collection from classroom storage. | Collection requested; completion not recorded. |
+
+---
+
+## 7. Student Account Management
+
+Historical account management activities included:
+
+- Temporarily disabling student computer accounts following authorised requests.
+- Reactivating student accounts.
+- Supporting student login access.
+- Configuring new staff accounts and access.
+- Assisting with resource booking credentials.
+
+**Important:** Account changes require proper authorisation and must follow school IT policies.
 
 
+
+### Areas Covered
+
+- Windows laptop and desktop troubleshooting
+- Hardware replacement and maintenance
+- Microsoft 365 and application support
+- Network and Wi-Fi connectivity
+- Printers and photocopiers
+- Projectors, smartboards and classroom audio
+- School IT asset management
+- User account administration
+- IT service documentation
 
 
 
